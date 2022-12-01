@@ -1,0 +1,228 @@
+{
+    "AdsManager":{
+       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+       "native_admob":"ca-app-pub-3940256099942544/2247696110"
+    },
+    "Content" :{
+ 
+       "Quotes":[
+ 
+          {
+             "Francais":"This my test for quote french",
+             "Arabe":"هدا متال على المقولة العربية"
+          },
+          {
+             "Francais":"This my test for quote french",
+             "Arabe":"هدا متال على المقولة العربية"
+          },
+          {
+             "Francais":"This my test for quote french",
+             "Arabe":"هدا متال على المقولة العربية"
+          },
+ 
+          {
+             "Francais":"This my test for quote french",
+             "Arabe":"هدا متال على المقولة العربية"
+          },
+ 
+          {
+             "Francais":"This my test for quote french",
+             "Arabe":"هدا متال على المقولة العربية"
+          }
+        
+ 
+       ],
+ 
+       "Lessons":[
+ 
+          {
+             "Title":"ضمائر",
+             "lesson":[
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                }
+             ]
+          },
+          {
+             "Title":"ضمائر",
+             "lesson":[
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                }
+             ]
+          },
+          {
+             "Title":"ضمائر",
+             "lesson":[
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على الضمائر",
+                   "French":"This is a test for pronouns"
+                }
+             ]
+          }
+          
+       ],
+       "Dialogues":[
+          {
+             "title":"الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+          {
+             "title":"الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+          {
+             "title":"الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          }
+          
+       ],
+       "Stories":[
+          {
+             "title":"Le martyr",
+             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+          },
+          {
+             "title":"Le pecheur",
+             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+          },
+          {
+             "title":"Le test",
+             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+          },
+          {
+             "title":"Le maroc",
+             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+          }
+       ],
+ 
+       "Examen":[
+          {
+             "Question":"What is your favorite color?",
+             "Choix1":"blue",
+             "Choix2":"yellow",
+             "Choix3":"orange",
+             "Correct":"blue"
+          },
+          {
+             "Question":"What is your favorite team?",
+             "Choix1":"barcelona",
+             "Choix2":"madrid",
+             "Choix3":"juventus",
+             "Correct":"madrid"
+          },
+          {
+             "Question":"What is your favorite car?",
+             "Choix1":"ford",
+             "Choix2":"fiat",
+             "Choix3":"ferrari",
+             "Correct":"ferrari"
+          },
+          {
+             "Question":"What is your favorite food?",
+             "Choix1":"pizza",
+             "Choix2":"tajine",
+             "Choix3":"soup",
+             "Correct":"tajine"
+          }
+       ]
+       
+    }
+ }
