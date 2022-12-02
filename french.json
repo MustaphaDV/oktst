@@ -54,35 +54,69 @@
              ]
           },
           {
-             "Title":"ضمائر",
+             "Title":"أفعال وكلمات",
              "lesson":[
                 {
-                   "Arabe":"هدا متال على الضمائر",
+                   "Arabe":"هدا متال على أفعال وكلمات",
                    "French":"This is a test for pronouns"
                 },
                 {
-                   "Arabe":"هدا متال على الضمائر",
+                   "Arabe":"هدا متال على أفعال وكلمات",
                    "French":"This is a test for pronouns"
                 },
                 {
-                   "Arabe":"هدا متال على الضمائر",
+                   "Arabe":"هدا متال على أفعال وكلمات",
                    "French":"This is a test for pronouns"
                 }
              ]
           },
           {
-             "Title":"ضمائر",
+             "Title":"التعجب والإستفهام",
              "lesson":[
                 {
-                   "Arabe":"هدا متال على الضمائر",
+                   "Arabe":"هدا متال على التعجب والإستفهام",
                    "French":"This is a test for pronouns"
                 },
                 {
-                   "Arabe":"هدا متال على الضمائر",
+                   "Arabe":"هدا متال على التعجب والإستفهام",
                    "French":"This is a test for pronouns"
                 },
                 {
-                   "Arabe":"هدا متال على الضمائر",
+                   "Arabe":"هدا متال على التعجب والإستفهام",
+                   "French":"This is a test for pronouns"
+                }
+             ]
+          },
+          {
+             "Title":"مهارة السرد",
+             "lesson":[
+                {
+                   "Arabe":"هدا متال على مهارة السرد",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على مهارة السرد",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على مهارة السرد",
+                   "French":"This is a test for pronouns"
+                }
+             ]
+          },
+          {
+             "Title":"كلمات متقاطعة",
+             "lesson":[
+                {
+                   "Arabe":"هدا متال على كلمات متقاطعة",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على كلمات متقاطعة",
+                   "French":"This is a test for pronouns"
+                },
+                {
+                   "Arabe":"هدا متال على كلمات متقاطعة",
                    "French":"This is a test for pronouns"
                 }
              ]
