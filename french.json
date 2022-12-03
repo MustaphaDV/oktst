@@ -125,6 +125,164 @@
        ],
        "Dialogues":[
           {
+             "title":"على متن الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+           
+          {
+             "title":"على متن الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+           
+          {
+             "title":"الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+          {
+             "title":"الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+          {
+             "title":"الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+          {
+             "title":"الحافلة",
+             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"This is a test",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+          {
              "title":"الحافلة",
              "iconUrl":"https://i.imgur.com/6oVngOd.png",
              "Dialog":[
