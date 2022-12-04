@@ -12,25 +12,25 @@
        "Quotes":[
  
           {
-             "Francais":"This my test for quote french",
+             "Francais":"On sait depuis longtemps que travailler avec du texte lisible",
              "Arabe":"هدا متال على المقولة العربية"
           },
           {
-             "Francais":"This my test for quote french",
+             "Francais":"On sait depuis longtemps que travailler avec du texte lisible",
              "Arabe":"هدا متال على المقولة العربية"
           },
           {
-             "Francais":"This my test for quote french",
-             "Arabe":"هدا متال على المقولة العربية"
-          },
- 
-          {
-             "Francais":"This my test for quote french",
+             "Francais":"On sait depuis longtemps que travailler avec du texte lisible",
              "Arabe":"هدا متال على المقولة العربية"
           },
  
           {
-             "Francais":"This my test for quote french",
+             "Francais":"On sait depuis longtemps que travailler avec du texte lisible",
+             "Arabe":"هدا متال على المقولة العربية"
+          },
+ 
+          {
+             "Francais":"On sait depuis longtemps que travailler avec du texte lisible",
              "Arabe":"هدا متال على المقولة العربية"
           }
         
@@ -44,15 +44,15 @@
              "lesson":[
                 {
                    "Arabe":"هدا متال على الضمائر",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على الضمائر",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على الضمائر",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 }
              ]
           },
@@ -61,15 +61,15 @@
              "lesson":[
                 {
                    "Arabe":"هدا متال على أفعال وكلمات",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على أفعال وكلمات",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على أفعال وكلمات",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 }
              ]
           },
@@ -78,15 +78,15 @@
              "lesson":[
                 {
                    "Arabe":"هدا متال على التعجب والإستفهام",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على التعجب والإستفهام",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على التعجب والإستفهام",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 }
              ]
           },
@@ -95,32 +95,32 @@
              "lesson":[
                 {
                    "Arabe":"هدا متال على مهارة السرد",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على مهارة السرد",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على مهارة السرد",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 }
              ]
           },
           {
-             "Title":"كلمات متقاطعة",
+             "Title":"الصرف والتحويل",
              "lesson":[
                 {
                    "Arabe":"هدا متال على كلمات متقاطعة",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على كلمات متقاطعة",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 },
                 {
                    "Arabe":"هدا متال على كلمات متقاطعة",
-                   "French":"This is a test for pronouns"
+                   "French":"ceci est un test pour les leçons"
                 }
              ]
           }
@@ -128,54 +128,27 @@
        ],
        "Dialogues":[
           {
-             "title":"على متن الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "title":"التسوق",
+             "iconUrl":"https://i.imgur.com/tnDC7Av.png",
              "Dialog":[
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"Bonjour",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
+                   "French":"Bonjour",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"Combien ça coûte?",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
-          },
-           
-          {
-             "title":"على متن الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
+                   "French":"c'est 50 dirhams",
                    "Arabe":"ان هدا متال"
                 }
              ]      
@@ -187,178 +160,101 @@
              "Dialog":[
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"Salut!",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
+                   "French":"Salut!",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"Puis-je vous demander où va ce bus ?",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
+                   "French":"ça va au centre-ville",
+                   "Arabe":"ان هدا متال"
+                }
+             ]      
+          },
+           
+          {
+             "title":"في المدرسة",
+             "iconUrl":"https://i.imgur.com/gfmLxL5.png",
+             "Dialog":[
+                {
+                   "Person" :"A",
+                   "French":"c'était un examen très difficile",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"pour moi c'était facile",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"A",
+                   "French":"nous allons travailler dur pour le prochain",
+                   "Arabe":"ان هدا متال"
+                },
+                {
+                   "Person" :"B",
+                   "French":"sûr mon ami",
                    "Arabe":"ان هدا متال"
                 }
              ]      
           },
           {
-             "title":"الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "title":"مع الاصدقاء",
+             "iconUrl":"https://i.imgur.com/mhf3rPT.png",
              "Dialog":[
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"Omar et moi prévoyons d'aller au cinéma ce week-end, viendrez-vous avec nous ?",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
+                   "French":"je suis désolé je suis très occupé cette semaine",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"pas de problème je vous souhaite bonne chance",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
+                   "French":"Merci mon ami",
                    "Arabe":"ان هدا متال"
                 }
              ]      
           },
           {
-             "title":"الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
+             "title":"في الجامعة",
+             "iconUrl":"https://i.imgur.com/oQ8EKkv.png",
              "Dialog":[
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"tu n'es pas venu hier",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
+                   "French":"oui je me sentais un peu malade et fatigué",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"A",
-                   "French":"This is a test",
+                   "French":"Oh! je suis content que tu vas bien maintenant",
                    "Arabe":"ان هدا متال"
                 },
                 {
                    "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
-          },
-          {
-             "title":"الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
-          },
-          {
-             "title":"الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
-          },
-          {
-             "title":"الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
-          },
-          {
-             "title":"الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"This is a test",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"This is a test",
+                   "French":"Merci beaucoup",
                    "Arabe":"ان هدا متال"
                 }
              ]      
@@ -368,7 +264,7 @@
        "Stories":[
           {
              "title":"Le martyr",
-             "titlear":"البوصلة",
+             "titlear":"الشهيد",
              "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
              "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
           },
