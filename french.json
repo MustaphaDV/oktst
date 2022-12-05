@@ -54,7 +54,25 @@
                    "Arabe":"هدا متال على الضمائر",
                    "French":"ceci est un test pour les leçons"
                 }
-             ]
+             ],
+             "Examples":[
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 }
+             ] 
+            
           },
           {
              "Title":"أفعال وكلمات",
@@ -71,7 +89,25 @@
                    "Arabe":"هدا متال على أفعال وكلمات",
                    "French":"ceci est un test pour les leçons"
                 }
-             ]
+             ],
+              
+             "Examples":[
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 }
+             ] 
           },
           {
              "Title":"التعجب والإستفهام",
@@ -88,7 +124,25 @@
                    "Arabe":"هدا متال على التعجب والإستفهام",
                    "French":"ceci est un test pour les leçons"
                 }
-             ]
+             ],
+              
+             "Examples":[
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 }
+             ] 
           },
           {
              "Title":"مهارة السرد",
@@ -105,7 +159,24 @@
                    "Arabe":"هدا متال على مهارة السرد",
                    "French":"ceci est un test pour les leçons"
                 }
-             ]
+             ],
+             "Examples":[
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 }
+             ] 
           },
           {
              "Title":"الصرف والتحويل",
@@ -122,7 +193,24 @@
                    "Arabe":"هدا متال على كلمات متقاطعة",
                    "French":"ceci est un test pour les leçons"
                 }
-             ]
+             ],
+             "Examples":[
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 },
+                 {
+                     "Arabe":"هدا متال على الأمثلة",
+                     "French":"ceci est un test pour les exemples"
+                 
+                 }
+             ] 
           }
           
        ],
