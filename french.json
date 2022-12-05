@@ -1,411 +1,377 @@
 {
-    "AdsManager":{
-       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
-       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
-       "native_admob":"ca-app-pub-3940256099942544/2247696110",
-       "email" : "youremail@gmail.com",
-       "privacy" : "https://www.google.com",
-       "dev_link" : "https://play.google.com/store/apps/developer?id=zahran.com" 
-    },
-    "Content" :{
- 
-       "Quotes":[
- 
+  "AdsManager": {
+    "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+    "email": "youremail@gmail.com",
+    "privacy": "https://www.google.com",
+    "dev_link": "https://play.google.com/store/apps/developer?id=zahran.com"
+  },
+  "Content": {
+    "Quotes": [
+      {
+        "Francais": "J'ai écrit avec un style",
+        "Arabe": "هدا متال على المقولة العربية"
+      },
+      {
+        "Francais": "Ce n’est pas la mer à boire",
+        "Arabe": "هدا متال على المقولة العربية"
+      },
+      {
+        "Francais": "La nuit porte conseil",
+        "Arabe": "هدا متال على المقولة العربية"
+      },
+      {
+        "Francais": "Comme on fait son lit, on se couche",
+        "Arabe": "هدا متال على المقولة العربية"
+      },
+      {
+        "Francais": "Il ne faut rien laisser au hasard",
+        "Arabe": "هدا متال على المقولة العربية"
+      }
+    ],
+    "Lessons": [
+      {
+        "Title": "الأفعال",
+        "lesson": [
           {
-             "Francais":"J'ai écrit avec un style",
-             "Arabe":"هدا متال على المقولة العربية"
+            "Arabe": "هدا متال على الضمائر",
+            "French": "ceci est un test pour les leçons"
           },
           {
-             "Francais":"Ce n’est pas la mer à boire",
-             "Arabe":"هدا متال على المقولة العربية"
+            "Arabe": "هدا متال على الضمائر",
+            "French": "ceci est un test pour les leçons"
           },
           {
-             "Francais":"La nuit porte conseil",
-             "Arabe":"هدا متال على المقولة العربية"
-          },
- 
-          {
-             "Francais":"Comme on fait son lit, on se couche",
-             "Arabe":"هدا متال على المقولة العربية"
-          },
- 
-          {
-             "Francais":"Il ne faut rien laisser au hasard",
-             "Arabe":"هدا متال على المقولة العربية"
+            "Arabe": "هدا متال على الضمائر",
+            "French": "ceci est un test pour les leçons"
           }
-        
- 
-       ],
- 
-       "Lessons":[
- 
+        ],
+        "Examples": [
           {
-             "Title":"الأفعال",
-             "lesson":[
-                {
-                   "Arabe":"هدا متال على الضمائر",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على الضمائر",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على الضمائر",
-                   "French":"ceci est un test pour les leçons"
-                }
-             ],
-             "Examples":[
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 }
-             ] 
-            
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
           },
           {
-             "Title":"أفعال وكلمات",
-             "lesson":[
-                {
-                   "Arabe":"هدا متال على أفعال وكلمات",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على أفعال وكلمات",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على أفعال وكلمات",
-                   "French":"ceci est un test pour les leçons"
-                }
-             ],
-              
-             "Examples":[
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 }
-             ] 
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
           },
           {
-             "Title":"التعجب والإستفهام",
-             "lesson":[
-                {
-                   "Arabe":"هدا متال على التعجب والإستفهام",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على التعجب والإستفهام",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على التعجب والإستفهام",
-                   "French":"ceci est un test pour les leçons"
-                }
-             ],
-              
-             "Examples":[
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 }
-             ] 
-          },
-          {
-             "Title":"مهارة السرد",
-             "lesson":[
-                {
-                   "Arabe":"هدا متال على مهارة السرد",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على مهارة السرد",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على مهارة السرد",
-                   "French":"ceci est un test pour les leçons"
-                }
-             ],
-             "Examples":[
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 }
-             ] 
-          },
-          {
-             "Title":"الصرف والتحويل",
-             "lesson":[
-                {
-                   "Arabe":"هدا متال على كلمات متقاطعة",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على كلمات متقاطعة",
-                   "French":"ceci est un test pour les leçons"
-                },
-                {
-                   "Arabe":"هدا متال على كلمات متقاطعة",
-                   "French":"ceci est un test pour les leçons"
-                }
-             ],
-             "Examples":[
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 },
-                 {
-                     "Arabe":"هدا متال على الأمثلة",
-                     "French":"ceci est un test pour les exemples"
-                 
-                 }
-             ] 
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
           }
-          
-       ],
-       "Dialogues":[
+        ]
+      },
+      {
+        "Title": "أفعال وكلمات",
+        "lesson": [
           {
-             "title":"التسوق",
-             "iconUrl":"https://i.imgur.com/tnDC7Av.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"Bonjour",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"Bonjour",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"Combien ça coûte?",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"c'est 50 dirhams",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
-          },
-           
-          {
-             "title":"الحافلة",
-             "iconUrl":"https://i.imgur.com/6oVngOd.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"Salut!",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"Salut!",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"Puis-je vous demander où va ce bus ?",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"ça va au centre-ville",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
-          },
-           
-          {
-             "title":"في المدرسة",
-             "iconUrl":"https://i.imgur.com/gfmLxL5.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"c'était un examen très difficile",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"pour moi c'était facile",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"nous allons travailler dur pour le prochain",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"sûr mon ami",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
+            "Arabe": "هدا متال على أفعال وكلمات",
+            "French": "ceci est un test pour les leçons"
           },
           {
-             "title":"مع الاصدقاء",
-             "iconUrl":"https://i.imgur.com/mhf3rPT.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"Omar et moi prévoyons d'aller au cinéma ce week-end, viendrez-vous avec nous ?",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"je suis désolé je suis très occupé cette semaine",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"pas de problème je vous souhaite bonne chance",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"Merci mon ami",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
+            "Arabe": "هدا متال على أفعال وكلمات",
+            "French": "ceci est un test pour les leçons"
           },
           {
-             "title":"في الجامعة مع الاصدقاء",
-             "iconUrl":"https://i.imgur.com/oQ8EKkv.png",
-             "Dialog":[
-                {
-                   "Person" :"A",
-                   "French":"tu n'es pas venu hier",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"oui je me sentais un peu malade et fatigué",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"A",
-                   "French":"Oh! je suis content que tu vas bien maintenant",
-                   "Arabe":"ان هدا متال"
-                },
-                {
-                   "Person" :"B",
-                   "French":"Merci beaucoup",
-                   "Arabe":"ان هدا متال"
-                }
-             ]      
+            "Arabe": "هدا متال على أفعال وكلمات",
+            "French": "ceci est un test pour les leçons"
           }
-          
-       ],
-       "Stories":[
+        ],
+        "Examples": [
           {
-             "title":"Le martyr",
-             "titlear":"الشهيد",
-             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
-             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
           },
           {
-             "title":"Le pecheur",
-             "titlear":"الصياد",
-             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
-             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
           },
           {
-             "title":"Le test",
-             "titlear":"التجربة",
-             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
-             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
-          },
-          {
-             "title":"Le maroc",
-             "titlear":"المغرب",
-             "Arabe":"لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
-             "French" : "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
           }
-       ],
- 
-       "Examen":[
+        ]
+      },
+      {
+        "Title": "التعجب والإستفهام",
+        "lesson": [
           {
-             "Question":"What is your favorite color?",
-             "Choix1":"blue",
-             "Choix2":"yellow",
-             "Choix3":"orange",
-             "Correct":"blue"
+            "Arabe": "هدا متال على التعجب والإستفهام",
+            "French": "ceci est un test pour les leçons"
           },
           {
-             "Question":"What is your favorite team?",
-             "Choix1":"barcelona",
-             "Choix2":"madrid",
-             "Choix3":"juventus",
-             "Correct":"madrid"
+            "Arabe": "هدا متال على التعجب والإستفهام",
+            "French": "ceci est un test pour les leçons"
           },
           {
-             "Question":"What is your favorite car?",
-             "Choix1":"ford",
-             "Choix2":"fiat",
-             "Choix3":"ferrari",
-             "Correct":"ferrari"
-          },
-          {
-             "Question":"What is your favorite food?",
-             "Choix1":"pizza",
-             "Choix2":"tajine",
-             "Choix3":"soup",
-             "Correct":"tajine"
+            "Arabe": "هدا متال على التعجب والإستفهام",
+            "French": "ceci est un test pour les leçons"
           }
-       ]
-       
-    }
- }
+        ],
+        "Examples": [
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          },
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          },
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          }
+        ]
+      },
+      {
+        "Title": "مهارة السرد",
+        "lesson": [
+          {
+            "Arabe": "هدا متال على مهارة السرد",
+            "French": "ceci est un test pour les leçons"
+          },
+          {
+            "Arabe": "هدا متال على مهارة السرد",
+            "French": "ceci est un test pour les leçons"
+          },
+          {
+            "Arabe": "هدا متال على مهارة السرد",
+            "French": "ceci est un test pour les leçons"
+          }
+        ],
+        "Examples": [
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          },
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          },
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          }
+        ]
+      },
+      {
+        "Title": "الصرف والتحويل",
+        "lesson": [
+          {
+            "Arabe": "هدا متال على كلمات متقاطعة",
+            "French": "ceci est un test pour les leçons"
+          },
+          {
+            "Arabe": "هدا متال على كلمات متقاطعة",
+            "French": "ceci est un test pour les leçons"
+          },
+          {
+            "Arabe": "هدا متال على كلمات متقاطعة",
+            "French": "ceci est un test pour les leçons"
+          }
+        ],
+        "Examples": [
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          },
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          },
+          {
+            "Arabe": "هدا متال على الأمثلة",
+            "French": "ceci est un test pour les exemples"
+          }
+        ]
+      }
+    ],
+    "Dialogues": [
+      {
+        "title": "التسوق",
+        "iconUrl": "https://i.imgur.com/tnDC7Av.png",
+        "Dialog": [
+          {
+            "Person": "A",
+            "French": "Bonjour",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "Bonjour",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "A",
+            "French": "Combien ça coûte?",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "c'est 50 dirhams",
+            "Arabe": "ان هدا متال"
+          }
+        ]
+      },
+      {
+        "title": "الحافلة",
+        "iconUrl": "https://i.imgur.com/6oVngOd.png",
+        "Dialog": [
+          {
+            "Person": "A",
+            "French": "Salut!",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "Salut!",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "A",
+            "French": "Puis-je vous demander où va ce bus ?",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "ça va au centre-ville",
+            "Arabe": "ان هدا متال"
+          }
+        ]
+      },
+      {
+        "title": "في المدرسة",
+        "iconUrl": "https://i.imgur.com/gfmLxL5.png",
+        "Dialog": [
+          {
+            "Person": "A",
+            "French": "c'était un examen très difficile",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "pour moi c'était facile",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "A",
+            "French": "nous allons travailler dur pour le prochain",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "sûr mon ami",
+            "Arabe": "ان هدا متال"
+          }
+        ]
+      },
+      {
+        "title": "مع الاصدقاء",
+        "iconUrl": "https://i.imgur.com/mhf3rPT.png",
+        "Dialog": [
+          {
+            "Person": "A",
+            "French": "Omar et moi prévoyons d'aller au cinéma ce week-end, viendrez-vous avec nous ?",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "je suis désolé je suis très occupé cette semaine",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "A",
+            "French": "pas de problème je vous souhaite bonne chance",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "Merci mon ami",
+            "Arabe": "ان هدا متال"
+          }
+        ]
+      },
+      {
+        "title": "في الجامعة مع الاصدقاء",
+        "iconUrl": "https://i.imgur.com/oQ8EKkv.png",
+        "Dialog": [
+          {
+            "Person": "A",
+            "French": "tu n'es pas venu hier",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "oui je me sentais un peu malade et fatigué",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "A",
+            "French": "Oh! je suis content que tu vas bien maintenant",
+            "Arabe": "ان هدا متال"
+          },
+          {
+            "Person": "B",
+            "French": "Merci beaucoup",
+            "Arabe": "ان هدا متال"
+          }
+        ]
+      }
+    ],
+    "Stories": [
+      {
+        "title": "Le martyr",
+        "titlear": "الشهيد",
+        "Arabe": "لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+        "French": "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+      },
+      {
+        "title": "Le pecheur",
+        "titlear": "الصياد",
+        "Arabe": "لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+        "French": "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+      },
+      {
+        "title": "Le test",
+        "titlear": "التجربة",
+        "Arabe": "لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+        "French": "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+      },
+      {
+        "title": "Le maroc",
+        "titlear": "المغرب",
+        "Arabe": "لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار  النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي",
+        "French": "If you’re reading this, you’ve probably been tasked with creating an Arabic website or landing page. Of course no one provided you with any Arabic content so you’re looking for some Arabic dummy text or Arabic Lorem Ipsum text to fill in the website until someone provides you with the necessary Arabic content. Well you’ve come to the right place."
+      }
+    ],
+    "Examen": [
+      {
+        "Question": "What is your favorite color?",
+        "Choix1": "blue",
+        "Choix2": "yellow",
+        "Choix3": "orange",
+        "Correct": "blue"
+      },
+      {
+        "Question": "What is your favorite team?",
+        "Choix1": "barcelona",
+        "Choix2": "madrid",
+        "Choix3": "juventus",
+        "Correct": "madrid"
+      },
+      {
+        "Question": "What is your favorite car?",
+        "Choix1": "ford",
+        "Choix2": "fiat",
+        "Choix3": "ferrari",
+        "Correct": "ferrari"
+      },
+      {
+        "Question": "What is your favorite food?",
+        "Choix1": "pizza",
+        "Choix2": "tajine",
+        "Choix3": "soup",
+        "Correct": "tajine"
+      }
+    ]
+  }
+}
